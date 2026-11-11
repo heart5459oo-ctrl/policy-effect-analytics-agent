@@ -1,5 +1,15 @@
-title: "지하철 승강장 발빠짐 안전 관리 및 Edge-AI 실시간 제어 효과 분석 (Aegis-Rail)"
+title: "지하철 승강장 발빠짐 안전 관리 및 Edge-AI 실시간 제어 (Aegis-Rail)"
 author: "heart5459oo-ctrl"
 track: "B"
 topic: "교통안전"
-description: "ToF, mmWave 센서 융합 및 0.08초 인터록 기반 지하철 승강장 갭 진입 판정 및 위험 관리"
+description: "ToF LiDAR 및 mmWave 센서 융합 기반 0.08초 직결 조종석 인터록 실시간 제어 시스템"
+
+exhibition_history:
+  event: "2026 FIX (미래혁신기술박람회) AI Hub 부스 출전"
+  achievement: "현장 데모 시연 진행 및 관람객 호응 확보"
+  current_status: "특허 출원 완료, 기술 라이센스 중심 사업화 추진 중 (실물 시제품 제작 및 정량 실증 데이터 확보 단계)"
+
+mentoring_requests:
+  - "시제품(PoC) 제작을 위한 Edge-AI 아키텍처 및 센서 융합 처리 지연 시간 최소화 방안"
+  - "시뮬레이션 환경 기반 정량적 실증 및 객관적 안전성 검증 방법론"
+  - "특허 기반 기술 라이센싱 판매 전략 및 정부 지원 사업 연계 로드맵"
